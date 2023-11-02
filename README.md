@@ -24,3 +24,5 @@ Host controller from which captcha is invoked
   * `CaptchaWebContainer.swift` is a container class for captcha; it includes a link to **webView** and shares it when switching between controllers.
   * `MessageHandler.swift` is a class for listening to messages from **webView**.
   * `WebContentController.swift` is a controller for displaying **webView** with a captcha.
+
+This application is an example of the CAPTCHA configuration described here: [Yandex SmartCaptcha in iOS apps](https://cloud.yandex.com/en-ru/docs/smartcaptcha/tutorials/mobile-app/ios/quickstart-ios).
